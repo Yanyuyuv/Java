@@ -22,6 +22,5 @@ public class hello {
         int t = sc.nextInt();
         int sum = h + t;
         System.out.println(h + "+" + t + "=" + sum);
-
     }
 }
